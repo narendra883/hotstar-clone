@@ -1,9 +1,9 @@
 import classes from './Footer.module.css';
 import {Fragment} from "react";
 import Github from '../Images/Github.svg'
-import insta from '../Images/Insta.svg'
+
 import Linkedln from '../Images/Linkedln.svg'
-import Twitter from '../Images/twitter.svg'
+
 const Footer =()=>{
     return(
         <Fragment>
